@@ -1,7 +1,7 @@
 # Non-Linear Data Structures Course  
 
 ### Instructor  
-## Mahmoud Abdelrazek  
+## Mahmoud Abdelrazek hamdallah - محمود عبدالرازق حمدالله
 
 #### Contact Information:  
 

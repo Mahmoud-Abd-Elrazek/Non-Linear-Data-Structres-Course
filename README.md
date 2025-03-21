@@ -1,7 +1,7 @@
 # Non-Linear Data Structures Course  
 
 ### Instructor  
-## Mahmoud Abdelrazek hamdallah - محمود عبدالرازق حمدالله
+## Mahmoud Abdelrazek hamdallah 
 
 #### Contact Information:  
 
@@ -10,7 +10,6 @@
 - [mahmoudzanitty@gmail.com](mailto:mahmoudzanitty@gmail.com)  
 - [My whatsapp channel](https://www.whatsapp.com/channel/0029VaxNOzZ2phHTmcdIPD3t)
 - [Facebook](https://www.facebook.com/profile.php?id=100091882538202)
-- [X](https://x.com/MahmoudAbderaz4?t=7zqoymdHxBgpE1Ni7T_YBQ&s=09)  
 
 ---
 
